@@ -18,12 +18,12 @@ body {
 }
 
 main {
-    width: 40%;
-    height: 50%;
+    width: 800px;
+    height: 500px;
     background-color: hsl(0, 0%, 100%);
-    border-radius: 5%;
+    border-radius: 30px;
     display: flex;
-    box-shadow: 5px 8px 15px hsla(241, 100%, 89%, .1);
+    box-shadow: 5px 8px 15px hsla(241, 100%, 89%, .2);
 }
 
 section {
