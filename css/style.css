@@ -154,6 +154,7 @@ button {
     font-size: 1.1rem;
     letter-spacing: 1.3px;
     cursor: pointer;
+    border: none;
     outline: none;
 }
 
